@@ -3,7 +3,8 @@ Laravel, React
 
 ALUR
 
-*Fitur*
+*FITUR*
+
 Create Customer
 Read (List) Customer
 Update Customer
